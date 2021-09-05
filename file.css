@@ -1,0 +1,55 @@
+/* FORMATTAZIONE BODY  */
+.corpo{
+  background-image: url(background.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+/* FORMATTAZIONE CORPO DEL SITO  */
+.riquadro{
+  width: 1000px;
+  background-color: rgba(0,0,0,0.50);
+  border-radius: 5%;
+  margin: 0 auto;
+  padding: 70px;
+}
+/* FORMATTAZIONE LOGO E TITOLO  */
+.logo{
+  width: 250px;
+}
+header, nav{
+  text-align: center;
+}
+h1{
+  color:#00FF00;
+}
+/* FORMATTAZIONE MENU */
+nav{
+  background-color:#00FF00;
+  padding: 15px;
+}
+/* FORMATTAZIONE CENTRO DEL SITO  */
+main{
+  color: White;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h3, .hiper{
+  display: inline-block;
+}
+#Gino22{
+  background-color: #FFB90F;
+  width:350px;
+}
+#Mike24{
+  background-color: #00CD00;
+  width:550px;
+}
+#Fede154{
+  background-color: #CD3333;
+  width:250px;
+}
+.carica{
+  margin-left:0;
+  border: 0px solid;
+  height: 25px;
+  border-radius: 5px;
+}
